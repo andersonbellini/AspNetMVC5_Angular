@@ -1,2 +1,0 @@
-# AspNetMVC5_Angular
-AspNetMVC5_Angular
